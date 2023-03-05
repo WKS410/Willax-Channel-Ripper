@@ -16,6 +16,16 @@ usage (Replay): main_replay.pyc [-h] [-mpd] mpd_url -o output_file
 
 Willax Channel Ripper
 
+## Binaries
+
+RE.exe
+
+shaka-packager.exe
+
+ffmpeg.exe
+
+mkvmerge.exe
+
 ### Example
 
 - https://tv.movistar.com.pe/details/movie/el-patron-del-mal-25031856
